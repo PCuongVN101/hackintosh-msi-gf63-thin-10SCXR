@@ -20,6 +20,7 @@ WORKING
 - Battery works fine
 - Touchpad (Sometimes is working synaptics, sometimes not.)
 - Brightness
+
 NOT WORKING
 - HDMI
 - Internal Speaker
