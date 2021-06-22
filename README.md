@@ -10,19 +10,19 @@ Hey, just to let you know i got fresh Vainilla Big Sur instaled on my lap. So i 
 
 WORKING
 
-Intel UHD 630
-Audio
-Ethernet
-Wifi
-Camera
-Temperature seems right no heat.
-Kingston SSD (Working fine)
-Battery works fine
-Touchpad (Sometimes is working synaptics, sometimes not.)
-Brightness
+- Intel UHD 630
+- Audio
+- Ethernet
+- Wifi
+- Camera
+- Temperature seems right no heat.
+- Kingston SSD (Working fine)
+- Battery works fine
+- Touchpad (Sometimes is working synaptics, sometimes not.)
+- Brightness
 NOT WORKING
-HDMI
-Internal Speaker
+- HDMI
+- Internal Speaker
 
 RAW FILE
-https://www.olarila.com/topic/6278-olarila-vanilla-images/
+- https://www.olarila.com/topic/6278-olarila-vanilla-images/
