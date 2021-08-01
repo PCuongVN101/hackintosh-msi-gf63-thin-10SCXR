@@ -31,8 +31,8 @@ WORKING
 - Battery works fine
 - Touchpad (Sometimes is working synaptics, sometimes not.)
 - Brightness
+- Webcam
 
 NOT WORKING
-- Camera
 - HDMI
 - Internal Speaker
